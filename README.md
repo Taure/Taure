@@ -1,5 +1,19 @@
-### Hi there 👋
+# Daniel 'Taure' Widgren
 
+## 🔭 I’m currently working on ...
+
+[Nova](https://github.com/novaframework/nova)
+
+[Firebase_admin](https://github.com/Taure/firebase_admin)
+
+## 🌱 I’m currently learning ...
+
+- react/vue
+- react native
+- CSS
+
+## 📫 How to reach me:
+daniel.widgren@gmail.com
 <!--
 **Taure/Taure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
