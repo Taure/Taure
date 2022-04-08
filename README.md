@@ -6,11 +6,6 @@
 
 [Firebase_admin](https://github.com/Taure/firebase_admin)
 
-## 🌱 I’m currently learning ...
-
-- react/vue
-- react native
-- CSS
 
 ## 📫 How to reach me:
 daniel.widgren@gmail.com
